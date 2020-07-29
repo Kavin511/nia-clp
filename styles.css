@@ -6,7 +6,7 @@ p
 {
     display: block;
     font-family:   sans-serif;
-    font-size: 20px;
+    font-size: 19px;
     border-bottom: 1px solid #888888;
     background-color: rgba(255, 255, 255, 0.986);
     border-radius: 10px;
@@ -24,7 +24,7 @@ p
       border:1px dashed #747373;
       border-radius: 4px;
       /* background-color: #888888; */
-      font-size: 18px;
+      font-size: 19px;
       font-family: 'Times New Roman', Times, serif;
       margin: 1%;
       padding: 1%;
@@ -63,7 +63,7 @@ p
 
   .nia-features,.choose-inner
   {
-    font-size: 18px;
+    font-size: 19px;
     font-family: serif;
     overflow-x: hidden;
     list-style: square outside none;
